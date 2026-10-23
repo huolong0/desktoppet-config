@@ -2,15 +2,15 @@
   "share_url": "https://pan.xunlei.com/s/VP4aYTp_-Zb72byJaUF2wD2bA1?pwd=zdv8",
   "share_pwd": "zdv8",
   "share_text": "",
-  "announcement": "新皮肤上架啦，右键菜单 -> 更换皮肤 试试~",
-  "version": "2026-10-23"
+  "announcement": "新皮肤「薄荷猫」上架啦，右键菜单 -> 获取新皮肤 试试~",
+  "version": "2026-10-23",
+  "skins": [
+    {
+      "id": "mint_cat",
+      "name": "薄荷猫",
+      "version": "1.0.0",
+      "zip_url": "https://pan.xunlei.com/s/VP4arNn0cbBTf_ThUPZ9RTCPA1?pwd=wuwx",
+      "description": "一只薄荷绿色的小猫"
+    }
+  ]
 }
-"skins": [
-  {
-    "id": "mint_cat",
-    "name": "薄荷猫",
-    "version": "1.0.0",
-    "zip_url": "https://pan.xunlei.com/s/VP4arNn0cbBTf_ThUPZ9RTCPA1?pwd=wuwx",
-    "description": "一只薄荷绿色的小猫"
-  }
-]
